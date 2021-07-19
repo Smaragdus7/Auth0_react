@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <p>Speak friend and enter!</p>
+      <p>Login here</p>
       {isAuthenticated ? <>
         <Profile />
         <LogoutButton />
